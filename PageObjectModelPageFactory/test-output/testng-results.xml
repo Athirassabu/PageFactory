@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="68440" started-at="2020-11-10T08:31:17 IST" finished-at="2020-11-10T08:32:25 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="68440" started-at="2020-11-10T08:31:17 IST" finished-at="2020-11-10T08:32:25 IST">
+      <class name="testcases.CreateTest">
+        <test-method status="PASS" signature="setFile()[pri:0, instance:testcases.CreateTest@6ec8211c]" name="setFile" is-config="true" duration-ms="8" started-at="2020-11-10T08:31:17 IST" finished-at="2020-11-10T08:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFile -->
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.CreateTest@6ec8211c]" name="setup" is-config="true" duration-ms="9636" started-at="2020-11-10T08:31:17 IST" finished-at="2020-11-10T08:31:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hari.radhakrishnan@testleaf.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[India$123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Create(java.lang.String)[pri:0, instance:testcases.CreateTest@6ec8211c]" name="Create" duration-ms="24670" started-at="2020-11-10T08:31:27 IST" data-provider="fetchData" finished-at="2020-11-10T08:31:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Athira]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.CreateTest@6ec8211c]" name="closeBrowser" is-config="true" duration-ms="782" started-at="2020-11-10T08:31:52 IST" finished-at="2020-11-10T08:31:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.CreateTest@6ec8211c]" name="setup" is-config="true" duration-ms="7939" started-at="2020-11-10T08:31:52 IST" finished-at="2020-11-10T08:32:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hari.radhakrishnan@testleaf.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[India$123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Create(java.lang.String)[pri:0, instance:testcases.CreateTest@6ec8211c]" name="Create" duration-ms="23977" started-at="2020-11-10T08:32:00 IST" data-provider="fetchData" finished-at="2020-11-10T08:32:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kavya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.CreateTest@6ec8211c]" name="closeBrowser" is-config="true" duration-ms="784" started-at="2020-11-10T08:32:24 IST" finished-at="2020-11-10T08:32:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.CreateTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
